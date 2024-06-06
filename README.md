@@ -75,11 +75,11 @@ Here are some ideas to get you started:
  
  <br>
 
-<a href="https://github.com/youngjun-kim92">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=youngjun-kim92&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngjun-kim92&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/youngjun-kim92">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=youngjun-kim92&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngjun-kim92&repo=convoychat" />
 </a>
 
 
