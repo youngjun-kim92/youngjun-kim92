@@ -76,10 +76,10 @@ Here are some ideas to get you started:
  <br>
 
 
-  <a href="https://github.com/youngjun-kim92">
+<a href="https://github.com/youngjun-kim92">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=youngjun-kim92&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="youngjun-kim92's github stats" />
 </a>
-<a href="https://github.com/youngjun-kim92"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun-kim92&layout=compact&theme=nord&hide_border=true" /></a> 
+
 
 
 
