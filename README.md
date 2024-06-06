@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=YoungJun's%20Github🙂&fontSize=70&fontColor=ffffff)
 
-<div align="center">
+<div align="left">
 
 ## "끊임없이 배우고 성장하는 개발자"
 
 </div>
+
 ---
 
 
