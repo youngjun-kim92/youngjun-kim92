@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **youngjun-kim92/youngjun-kim92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=3572EF&height=300&section=header&text=Young-Jun's%20Github&fontSize=90)
