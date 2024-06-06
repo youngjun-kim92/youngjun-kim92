@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-## "끊임없이 배우고 성장하는 개발자"
+"끊임없이 배우고 성장하는 개발자"
 
 </div>
 
-----------
 
 
 
