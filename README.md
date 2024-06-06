@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * 🎬 I enjoy watching movies
 
 ## 💪 sᴋɪʟʟs
-<p>💻Front-end Stack💻</p>
+<p>💻ғʀᴏɴᴛ-ᴇɴᴅ sᴛᴀᴄᴋ💻</p>
 <div>
   <!--Html5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p>💻Back-end Stack💻</p>
+<p>💻ʙᴀᴄᴋ-ᴇɴᴅ sᴛᴀᴄᴋ💻</p>
 <div>
   <!--java-->
   <img src="https://img.shields.io/badge/Java-C21325?style=flat&logo=jameson&logoColor=white"/>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
  
  <br>
 
-<p>💻DataBase💻</p>
+<p>💻ᴅᴀᴛᴀʙᴀsᴇ💻</p>
 <div>
   <!--oracle-->
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
