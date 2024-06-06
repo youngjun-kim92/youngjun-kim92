@@ -76,11 +76,10 @@ Here are some ideas to get you started:
  <br>
 
 
-<a href="https://github.com/youngjun-kim92">
-  <img align="center" style="height:180px; margin-right:10px" src="https://github-readme-stats.vercel.app/api?username=youngjun-kim92&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="youngjun-kim92's github stats" />
-</a>
-<a href="https://github.com/youngjun-kim92"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun-kim92&layout=compact&theme=nord&hide_border=true" /></a> 
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youngjun-kim92&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun-kim92&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
 
 
