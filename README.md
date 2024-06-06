@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/nightfury920104@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"> <a href="https://furyfire-devstory.tistory.com/">
 <img src="https://img.shields.io/badge/TECH BLOG-40AEF0?style=flat&logoColor=white">  
+</a> <a href="https://www.notion.so/0932ef521ec04959a3a2ca817163ec2c">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">  
 </a>
+
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whiteblood00)](https://solved.ac/whiteblood00/)
   
