@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
   
 </div>
-  <div align="center">
+  <div align="center" style="height:180px">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whiteblood00)](https://solved.ac/whiteblood00/)
   
