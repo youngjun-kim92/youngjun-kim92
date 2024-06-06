@@ -75,11 +75,8 @@ Here are some ideas to get you started:
  
  <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngjun-kim92&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngjun-kim92&repo=convoychat" />
+<a href="https://github.com/youngjun-kim92">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?            username=youngjun-kim92&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="youngjun-kim92's github stats" />
 </a>
 
 
