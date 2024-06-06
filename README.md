@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * 🎬 I enjoy watching movies
 
 ## 💪 sᴋɪʟʟs
-<p>💻ғʀᴏɴᴛ-ᴇɴᴅ sᴛᴀᴄᴋ💻</p>
+<p>💻 ғʀᴏɴᴛ-ᴇɴᴅ sᴛᴀᴄᴋ 💻</p>
 <div>
   <!--Html5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 <br>
 
-<p>💻ʙᴀᴄᴋ-ᴇɴᴅ sᴛᴀᴄᴋ💻</p>
+<p>💻 ʙᴀᴄᴋ-ᴇɴᴅ sᴛᴀᴄᴋ 💻</p>
 <div>
   <!--java-->
-  <img src="https://img.shields.io/badge/Java-C21325?style=flat&logo=jameson&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-C21325?style=flat&logo=JAVA&logoColor=white"/>
   <!--JPA-->
   <img src="https://img.shields.io/badge/JPA-004027?style=flat&logo=Jameson&logoColor=white"/>
   <!--spring-->
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
  
  <br>
 
-<p>💻ᴅᴀᴛᴀʙᴀsᴇ💻</p>
+<p>💻 ᴅᴀᴛᴀʙᴀsᴇ 💻</p>
 <div>
   <!--oracle-->
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
@@ -74,6 +74,7 @@ Here are some ideas to get you started:
  </div>
  
  <br>
+
 
 
 
