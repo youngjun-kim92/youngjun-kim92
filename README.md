@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&size=35&pause=1000&color=A5DFFF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%22%EB%81%8A%EC%9E%84%EC%97%86%EC%9D%B4+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%22)](https://git.io/typing-svg)
 
-<p>👋 It's me</p>
+<p style="font-size=30px">👋 ɪᴛ's ᴍᴇ</p>
 
 
 
