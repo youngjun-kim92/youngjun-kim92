@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <p>💻 ʙᴀᴄᴋ-ᴇɴᴅ sᴛᴀᴄᴋ 💻</p>
 <div>
   <!--java-->
-  <img src="https://img.shields.io/badge/Java-C21325?style=flat&logo=JAVA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-C21325?style=flat&logo=Jameson&logoColor=white"/>
   <!--JPA-->
   <img src="https://img.shields.io/badge/JPA-004027?style=flat&logo=Jameson&logoColor=white"/>
   <!--spring-->
