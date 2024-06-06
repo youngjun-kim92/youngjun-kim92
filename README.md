@@ -75,12 +75,12 @@ Here are some ideas to get you started:
  
  <br>
 
-<div>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whiteblood00)](https://solved.ac/whiteblood00/)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  
-</div>
+<a href="https://github.com/youngjun-kim92">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngjun-kim92&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/youngjun-kim92">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngjun-kim92&repo=convoychat" />
+</a>
 
 
 
